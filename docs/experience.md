@@ -16,3 +16,6 @@ title: Experience
 ### Tech Mahindra Ltd. — Software Engineer _(Dec 2010 – Jun 2014, Pune, India)_
 - AT&T Order Capture (JSF 2.0, Core Java, Servlets).
 - ISP-e Dashboard; HLD/LLD; Unix deployments.
+
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+<script defer src="{{ '/assets/js/theme.js' | relative_url }}"></script>
