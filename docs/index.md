@@ -8,7 +8,7 @@ title: Home
 **Staff Software Engineer** focused on high-scale, reliable systems.  
 Spring Boot · Java · React · Kubernetes · Kafka · Azure/GCP · BigQuery · Airflow.
 
-[About](about.md) • [Experience](experience.md) • [Highlights](projects.md) • [Contact](contact.md)
+[About]({{ '/about/' | relative_url }}) • [Experience]({{ '/experience/' | relative_url }}) • [Highlights]({{ '/projects/' | relative_url }}) • [Contact]({{ '/contact/' | relative_url }})
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Highlights
+permalink: /projects/
 ---
 
 - **Global Scheduling Platform** — 2M+ associates.

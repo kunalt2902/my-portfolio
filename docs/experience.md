@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+permalink: /experience/
 ---
 
 ### Walmart Inc. — Staff Software Engineer _(Jan 2018 – Present, Bentonville, AR)_
