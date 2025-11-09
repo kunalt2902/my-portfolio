@@ -1,12 +1,18 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-Welcome! I'm **Kunal Thorvat**, a Staff Software Engineer focused on high-scale, reliable systems.
+# Kunal Thorvat
 
-- 10+ years in enterprise engineering (Walmart workforce platforms serving 2M+ associates)
-- Spring Boot · Java · React · Kubernetes · Kafka · Azure/GCP · BigQuery · Airflow
-- Obsessed with performance, reliability (Dynatrace/Prometheus), and measurable impact
+**Staff Software Engineer** focused on high-scale, reliable systems.  
+Spring Boot · Java · React · Kubernetes · Kafka · Azure/GCP · BigQuery · Airflow.
 
-Use the nav (top‑right) to explore my **Experience**, **Projects**, and **Contact**.
+[About](about.md) • [Experience](experience.md) • [Highlights](projects.md) • [Contact](contact.md)
+
+---
+
+## Highlights
+- **Global Scheduling Platform** — Replacement powering **2M+ associates** with improved accuracy and transparency.
+- **Labor Demand & Budget** — Airflow + BigQuery orchestration eliminated spreadsheets.
+- **Freight Throughput** — Hybrid caching for sub-second APIs across legacy sources.
