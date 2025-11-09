@@ -1,0 +1,1 @@
+Upload the `docs` folder in this option to your repo, then enable GitHub Pages (main /docs).
