@@ -1,15 +1,3 @@
 title: "Kunal Thorvat"
-description: "Staff Software Engineer — scalable architectures • scheduling & labor-demand platforms • distributed systems"
-theme: jekyll-theme-architect
-# To try another built-in GitHub Pages theme, change the line above to one of:
-# architect, cayman, dinky, hacker, leap-day, merlot, midnight, minimal, modernist, slate, tactile, time-machine
-author:
-  name: "Kunal Thorvat"
-  email: "kunal.thorvat@gmail.com"
-minima:
-  skin: classic   # other options: auto, dark, solarized
-  social_links:
-    - { platform: linkedin,  user_url: "https://linkedin.com/in/kunalthorvat" }
-    - { platform: github,    user_url: "https://github.com/" }
-google_analytics:   # add your GA id if you have one
-# IMPORTANT: Don't put a .nojekyll file in this folder. It would disable Jekyll.
+description: "Staff Software Engineer — scalable architectures • scheduling & labor-demand platforms"
+theme: jekyll-theme-cayman
